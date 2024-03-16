@@ -4,6 +4,13 @@
 free tic-tac-toe game flutter.
 
 
+
+https://github.com/Maliud/tic-tac-toe-flutter/assets/72108306/6d38c2d8-2be6-43ce-8618-dcbc74b657b2
+
+
+
+
+
 ## Tech Stack
 
 **Client:** Flutter, Dart
